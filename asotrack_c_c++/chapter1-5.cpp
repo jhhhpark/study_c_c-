@@ -1,6 +1,6 @@
 #include <cstdio>
 
-int main()
+int chapter1_5()
 {
 	//[2강]
 	// 주석 : 설명
@@ -104,7 +104,7 @@ int main()
 	* 
 	* ※ 다시 한번 말하지만 실수와 정수를 혼합해서 사용하지 말것!!
 	*/
-	int warningDiv = 10.1 / 3;
+	//int warningDiv = 10.1 / 3; // warning
 	int div = (int)10.1 / 3;
 	int div2 = (int)(10.1 / 3);
 
