@@ -1,5 +1,5 @@
 #include <cstdio>
-int main()
+int chapter6()
 {
 	// 증감연산자
 	int data = 0;
@@ -25,4 +25,5 @@ int main()
 	data = ++a;
 	printf("%d %d\n", data, a);
 
+	return 0;
 }
