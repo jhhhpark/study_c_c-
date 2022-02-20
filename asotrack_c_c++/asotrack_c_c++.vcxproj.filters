@@ -15,13 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chapter1-5.cpp">
+    <ClCompile Include="chapter_1-5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="chapter6.cpp">
+    <ClCompile Include="chapter_6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="chapter7-9.cpp">
+    <ClCompile Include="chapter_7-9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_10_bit_operate_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_11_bit_operate_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_12_variable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
