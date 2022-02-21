@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="chapter_1-5.cpp" />
     <ClCompile Include="chapter_12_variable.cpp" />
+    <ClCompile Include="chapter_13_function_n_for.cpp" />
+    <ClCompile Include="chapter_14_shortcut.cpp" />
+    <ClCompile Include="chapter_15_io.cpp" />
     <ClCompile Include="chapter_6.cpp" />
     <ClCompile Include="chapter_7-9.cpp" />
     <ClCompile Include="chapter_10_bit_operate_1.cpp" />
