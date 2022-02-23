@@ -146,6 +146,8 @@
     <ClCompile Include="chapter_15_io.cpp" />
     <ClCompile Include="chapter_16_function_2.cpp" />
     <ClCompile Include="chapter_17_function_3.cpp" />
+    <ClCompile Include="chapter_18_recursive_2.cpp" />
+    <ClCompile Include="chapter_19_recursive_3.cpp" />
     <ClCompile Include="chapter_6.cpp" />
     <ClCompile Include="chapter_7-9.cpp" />
     <ClCompile Include="chapter_10_bit_operate_1.cpp" />
