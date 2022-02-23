@@ -1,6 +1,6 @@
 #include <cstdio>
 
-int main()
+int chapter_20()
 {
 	// ¹è¿­!!
 	int array[10] = { 0 };
